@@ -1,11 +1,3 @@
-<p align="center">
-<img src="public/icon-384x384.png" width="200" alt="dikit">
-</p>
-
-## About Dikit Link
-
-Dikit Link adalah aplikasi shortlink gk ada obat dengan Kamu PHP Framework.
-
 ## Get Started Project
 - Clone or download this repository
     ```bash
@@ -36,10 +28,6 @@ Dikit Link adalah aplikasi shortlink gk ada obat dengan Kamu PHP Framework.
 ## Contributing
 
 I'm very open to those of you who want to contribute to Kamu framework!
-
-## Security Vulnerabilities
-
-If you find a security vulnerability in this Kamu, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
 
 ## License
 
